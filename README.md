@@ -33,6 +33,8 @@ Python serves as the primary programming language for data manipulation, analysi
    Taliban, Al-Shabaab, New Peoples Army, CPI- Maoists, Tehrik-i-Taliban, ISIL, Boko Haram, Houthi Extremists(Ansar Allah) and Kurdistan Workers' Party. Taliban and Al-Shabaab are on a rise.
 9. Most number of suicide attacks are executed in Iraq and Afghanistan.
 10. Australasia & Oceania has seen least number of attacks as recorded in database.
+11. Explosives, Firearms and Incendiary are most used weapons. Infact more than 50% times explosives are used.
+12. Iraq has the most number of casualities with 19% of total deaths and 25% of total wounded. 
 
 
 
